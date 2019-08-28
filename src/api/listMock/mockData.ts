@@ -1,0 +1,290 @@
+import { ListModel } from '../../model';
+
+export const listData: ListModel[] = [
+  {
+    _id: '5d66d7a2b292fe096472751a',
+    isActive: false,
+    age: 20,
+    name: 'Latonya Woodard',
+    gender: 'female',
+    company: 'XYLAR',
+    email: 'latonyawoodard@xylar.com',
+    phone: '+1 (926) 401-3589',
+    address: '825 Conselyea Street, Hilltop, Tennessee, 6123'
+  },
+  {
+    _id: '5d66d7a295697b7cb19e521e',
+    isActive: true,
+    age: 32,
+    name: 'Kristen Mckenzie',
+    gender: 'female',
+    company: 'REMOTION',
+    email: 'kristenmckenzie@remotion.com',
+    phone: '+1 (865) 552-2123',
+    address: '220 Canal Avenue, Sugartown, Utah, 620'
+  },
+  {
+    _id: '5d66d7a280864fa79339ea00',
+    isActive: true,
+    age: 24,
+    name: 'Ida Moreno',
+    gender: 'female',
+    company: 'EVIDENDS',
+    email: 'idamoreno@evidends.com',
+    phone: '+1 (939) 502-3664',
+    address: '990 Ovington Court, Clarence, Puerto Rico, 8491'
+  },
+  {
+    _id: '5d66d7a2f494253d31d86156',
+    isActive: true,
+    age: 32,
+    name: 'Vazquez Boyer',
+    gender: 'male',
+    company: 'SPRINGBEE',
+    email: 'vazquezboyer@springbee.com',
+    phone: '+1 (818) 598-3159',
+    address: '733 Stoddard Place, Manchester, Nebraska, 158'
+  },
+  {
+    _id: '5d66d7a29351af19b7946236',
+    isActive: false,
+    age: 27,
+    name: 'Sawyer Stanley',
+    gender: 'male',
+    company: 'HOTCAKES',
+    email: 'sawyerstanley@hotcakes.com',
+    phone: '+1 (858) 547-3137',
+    address: '544 Grace Court, Elbert, Delaware, 3594'
+  },
+  {
+    _id: '5d66d7a2f0d2aa9c988bee12',
+    isActive: true,
+    age: 28,
+    name: 'Noreen Craft',
+    gender: 'female',
+    company: 'PIVITOL',
+    email: 'noreencraft@pivitol.com',
+    phone: '+1 (911) 428-2050',
+    address: '247 Havens Place, Balm, Marshall Islands, 7038'
+  },
+  {
+    _id: '5d66d7a21c122dc71335f81a',
+    isActive: true,
+    age: 26,
+    name: 'Ebony Mercado',
+    gender: 'female',
+    company: 'ZIORE',
+    email: 'ebonymercado@ziore.com',
+    phone: '+1 (915) 473-2434',
+    address: '305 Irving Place, Sunwest, Pennsylvania, 4306'
+  },
+  {
+    _id: '5d66d7a28d2afa5d265d4f68',
+    isActive: false,
+    age: 21,
+    name: 'Reese Carver',
+    gender: 'male',
+    company: 'VIASIA',
+    email: 'reesecarver@viasia.com',
+    phone: '+1 (920) 582-2516',
+    address: '441 Russell Street, Summerset, Vermont, 5956'
+  },
+  {
+    _id: '5d66d7a2ce34fabad43380c8',
+    isActive: true,
+    age: 34,
+    name: 'Lilly Sherman',
+    gender: 'female',
+    company: 'DANCITY',
+    email: 'lillysherman@dancity.com',
+    phone: '+1 (893) 458-3284',
+    address: '693 Glendale Court, Canoochee, Missouri, 767'
+  },
+  {
+    _id: '5d66d7a21333f4e3045f80e9',
+    isActive: true,
+    age: 37,
+    name: 'Dennis Crosby',
+    gender: 'male',
+    company: 'CORPORANA',
+    email: 'denniscrosby@corporana.com',
+    phone: '+1 (846) 403-3843',
+    address: '722 Seba Avenue, Hamilton, New Hampshire, 831'
+  },
+  {
+    _id: '5d66d7a2d7704500b92dce4b',
+    isActive: true,
+    age: 38,
+    name: 'Shari Doyle',
+    gender: 'female',
+    company: 'ZOLAREX',
+    email: 'sharidoyle@zolarex.com',
+    phone: '+1 (904) 435-3327',
+    address: '806 Stone Avenue, Stevens, Massachusetts, 5410'
+  },
+  {
+    _id: '5d66d7a2d945702cb544b805',
+    isActive: true,
+    age: 32,
+    name: 'Rodgers Nixon',
+    gender: 'male',
+    company: 'PRIMORDIA',
+    email: 'rodgersnixon@primordia.com',
+    phone: '+1 (966) 480-2827',
+    address: '492 Berry Street, Abiquiu, Alabama, 2316'
+  },
+  {
+    _id: '5d66d7a27bed9a8a49559ad4',
+    isActive: true,
+    age: 24,
+    name: 'Avila Francis',
+    gender: 'male',
+    company: 'SUREMAX',
+    email: 'avilafrancis@suremax.com',
+    phone: '+1 (974) 548-3731',
+    address: '742 Beaver Street, Allentown, Montana, 5552'
+  },
+  {
+    _id: '5d66d7a2e85d37b17bcef620',
+    isActive: true,
+    age: 21,
+    name: 'Bowers Johns',
+    gender: 'male',
+    company: 'EWEVILLE',
+    email: 'bowersjohns@eweville.com',
+    phone: '+1 (997) 515-3018',
+    address: '716 Howard Avenue, Coinjock, Michigan, 6172'
+  },
+  {
+    _id: '5d66d7a238b2958df4331856',
+    isActive: false,
+    age: 34,
+    name: 'Rena Mason',
+    gender: 'female',
+    company: 'PLASMOSIS',
+    email: 'renamason@plasmosis.com',
+    phone: '+1 (855) 403-3347',
+    address: '171 Doughty Street, Cade, Arizona, 3293'
+  },
+  {
+    _id: '5d66d7a236f5b0306e935be7',
+    isActive: false,
+    age: 26,
+    name: 'Holt Bishop',
+    gender: 'male',
+    company: 'TROPOLIS',
+    email: 'holtbishop@tropolis.com',
+    phone: '+1 (953) 464-2579',
+    address: '210 Girard Street, Brownsville, Connecticut, 5296'
+  },
+  {
+    _id: '5d66d7a24144b67c2fb51fec',
+    isActive: false,
+    age: 30,
+    name: 'Blanca Pena',
+    gender: 'female',
+    company: 'BLANET',
+    email: 'blancapena@blanet.com',
+    phone: '+1 (908) 504-3051',
+    address: '932 Lorraine Street, Loomis, Northern Mariana Islands, 4971'
+  },
+  {
+    _id: '5d66d7a2513c255d8bb73fb5',
+    isActive: true,
+    age: 32,
+    name: 'Hull Garza',
+    gender: 'male',
+    company: 'FLUM',
+    email: 'hullgarza@flum.com',
+    phone: '+1 (865) 508-3906',
+    address: '870 Livonia Avenue, Barclay, American Samoa, 1390'
+  },
+  {
+    _id: '5d66d7a2b7d03ebbd5f2befe',
+    isActive: true,
+    age: 40,
+    name: 'Lancaster Wiggins',
+    gender: 'male',
+    company: 'GLEAMINK',
+    email: 'lancasterwiggins@gleamink.com',
+    phone: '+1 (874) 465-2043',
+    address: '407 Polar Street, Leyner, Minnesota, 9857'
+  },
+  {
+    _id: '5d66d7a2e03306b61b0b2831',
+    isActive: false,
+    age: 26,
+    name: 'Elma Townsend',
+    gender: 'female',
+    company: 'MACRONAUT',
+    email: 'elmatownsend@macronaut.com',
+    phone: '+1 (918) 406-2836',
+    address: '921 Hyman Court, Beaverdale, Maine, 2676'
+  },
+  {
+    _id: '5d66d7a2e55d1c822403a62c',
+    isActive: false,
+    age: 23,
+    name: 'Aimee Ramsey',
+    gender: 'female',
+    company: 'VISALIA',
+    email: 'aimeeramsey@visalia.com',
+    phone: '+1 (877) 408-3956',
+    address: '447 Miller Place, Jardine, Texas, 7118'
+  },
+  {
+    _id: '5d66d7a2f15f0af489b7b569',
+    isActive: false,
+    age: 36,
+    name: 'Jamie Tanner',
+    gender: 'female',
+    company: 'FANGOLD',
+    email: 'jamietanner@fangold.com',
+    phone: '+1 (871) 529-3401',
+    address: '506 Willoughby Street, Cresaptown, Kansas, 7392'
+  },
+  {
+    _id: '5d66d7a25558b9d6be5a4a15',
+    isActive: false,
+    age: 32,
+    name: 'Jordan Wiley',
+    gender: 'female',
+    company: 'VIDTO',
+    email: 'jordanwiley@vidto.com',
+    phone: '+1 (964) 527-2727',
+    address: '725 Walker Court, Chapin, Idaho, 7455'
+  },
+  {
+    _id: '5d66d7a293eadf0a67df3f7d',
+    isActive: false,
+    age: 26,
+    name: 'Esmeralda Davenport',
+    gender: 'female',
+    company: 'FIBRODYNE',
+    email: 'esmeraldadavenport@fibrodyne.com',
+    phone: '+1 (813) 525-3941',
+    address: '298 Woodpoint Road, Stagecoach, Maryland, 693'
+  },
+  {
+    _id: '5d66d7a2b7b54c5fc664803b',
+    isActive: true,
+    age: 35,
+    name: 'Maldonado Frederick',
+    gender: 'male',
+    company: 'DOGTOWN',
+    email: 'maldonadofrederick@dogtown.com',
+    phone: '+1 (818) 588-3496',
+    address: '682 Montrose Avenue, Riverton, Guam, 5004'
+  },
+  {
+    _id: '5d66d7a2003ccca35bf0f5e9',
+    isActive: false,
+    age: 22,
+    name: 'Kasey Sosa',
+    gender: 'female',
+    company: 'TELPOD',
+    email: 'kaseysosa@telpod.com',
+    phone: '+1 (998) 515-3085',
+    address: '418 Prince Street, Gracey, Iowa, 1707'
+  }
+];
